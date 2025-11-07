@@ -16,3 +16,6 @@ Division
 Clear Function
 
 The calculator demonstrates essential concepts of GUI programming, EventListeners, Layouts, and Component handling in Java.
+
+There is also Program to check if the number is prime or not 
+
